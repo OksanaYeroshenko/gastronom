@@ -1,7 +1,7 @@
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'gastronomDB',
+        'NAME': 'gastronomdb',
         'USER': 'gastronom_oksana',
         'PASSWORD': '2li3Da-q_ZOr',
         'HOST': 'localhost',
